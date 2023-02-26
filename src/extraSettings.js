@@ -35,7 +35,7 @@ let fruitSlowDown = false;
 let clickChangeFruit = true;
 
 // 广告链接：false 或为空字符串表示不会跳转到广告
-let adLink = '';
+let adLink = 'CatjingY.github.io';
 
 // 修改网页标题：将 "合成大西瓜" 进行替换
 document.getElementsByTagName("title")[0].innerText = '合成宇宙国';
